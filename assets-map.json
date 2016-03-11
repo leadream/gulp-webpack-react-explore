@@ -1,0 +1,12 @@
+{
+  "home.entry": {
+    "js": "../../dist/js/home.entry-be68145d899020a7eb83.js",
+    "css": "../../dist/css/home.entry-be68145d899020a7eb83.css"
+  },
+  "login.entry": {
+    "js": "../../dist/js/login.entry-7820090036e9e8bfc8b4.js"
+  },
+  "vendors": {
+    "js": "../../dist/js/vendors-c2edef1f04d216cc7c65.js"
+  }
+}
